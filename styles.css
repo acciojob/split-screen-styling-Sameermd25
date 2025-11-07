@@ -34,12 +34,14 @@ footer{
 	padding:1em;
 }
 .content>article{
-	width:75%;
+	/* width:75%; */
+	flex: 3 1 0%;
 	min-height:60vh;
 	padding:1em;
 }
-aside{
-	width:25%;
+.content>aside{
+	/* width:25%; */
+	flex: 1 1 0%;
 	background-color:#F5F5DC;
 	padding:1em;
 }
