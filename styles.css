@@ -28,12 +28,12 @@ footer{
 	background-color:yellowgreen;
 	padding:1em;
 }
-content{
+.content{
 	width:80vw;
 	display:flex;
 	padding:1em;
 }
-article{
+.content>article{
 	width:75%;
 	min-height:60vh;
 	padding:1em;
